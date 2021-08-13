@@ -1,2 +1,2 @@
-# GusHdzE.github.io
-Juego
+# hero-scape
+Juego mazmorra escape
